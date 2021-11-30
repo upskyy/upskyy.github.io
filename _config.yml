@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sangchun Ha"
 description              : "Done is better than perfect!"
-url                      : "https://hasangchun.github.io"
+url                      : "https://upskyy.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/bio.jpeg"
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : "hasangchun-github-io"
+    shortname            : "upskyy-github-io"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -114,7 +114,7 @@ author:
       url: mailto:seomk9896@naver.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://sites.google.com/view/hasangchun"
+      url: "https://sites.google.com/view/upskyy"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
