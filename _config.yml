@@ -111,7 +111,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:seomk9896@naver.com
+      url: mailto:seomk9896@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://sites.google.com/view/upskyy"
@@ -123,7 +123,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/hasangchun"
+      url: "https://github.com/upskyy"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -133,7 +133,7 @@ footer:
   links:
     - label: ""
       icon: "fas fa-envelope"
-      url: "mailto:seomk9896@naver.com"
+      url: "mailto:seomk9896@gmail.com"
     - label: ""
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/sangchunha"
@@ -142,7 +142,7 @@ footer:
       url: "https://www.facebook.com/profile.php?id=100005129311669"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/hasangchun"
+      url: "https://github.com/upskyy"
 
 
 # Reading Files
