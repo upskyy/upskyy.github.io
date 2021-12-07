@@ -11,7 +11,7 @@ tags:
 last_modified_at: 2021-08-27-01:00
 ---
 
-# [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)  
+[https://arxiv.org/pdf/1810.04805.pdf](https://arxiv.org/pdf/1810.04805.pdf)  
    
 ![a](https://user-images.githubusercontent.com/54731898/109606223-b0078f00-7b69-11eb-8fea-a0562c4ab7c4.jpg)    
  

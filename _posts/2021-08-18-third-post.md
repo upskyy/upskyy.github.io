@@ -12,7 +12,7 @@ last_modified_at: 2021-08-18-01:00
 ---
 
 
-# [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+[https://arxiv.org/pdf/1706.03762.pdf](https://arxiv.org/pdf/1706.03762.pdf)
 
 
 ## Abstract
