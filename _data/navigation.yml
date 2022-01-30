@@ -2,8 +2,8 @@
 main:
   - title: "Google AI"
     url: https://ai.googleblog.com/
-  - title: "Open AI"
-    url: https://openai.com/blog/
+  - title: "Meta AI"
+    url: https://ai.facebook.com/blog
   - title: "DeepMind"
     url: https://deepmind.com/blog
   - title: "About Me"
