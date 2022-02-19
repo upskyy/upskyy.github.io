@@ -23,7 +23,7 @@ name                     : "Sangchun Ha"
 description              : "Done is better than perfect!"
 url                      : "https://upskyy.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "upskyy/upskyy.github.io"
 teaser                   : "/assets/images/bio.jpeg"
 logo                     : "/assets/images/web.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -211,7 +211,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 8 # amount of posts to show
 paginate_path: /page:num/
 timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
