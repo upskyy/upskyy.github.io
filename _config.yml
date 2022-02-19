@@ -216,6 +216,11 @@ paginate_path: /page:num/
 timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
+# toggle
+dark_theme_toggle        : true # 다크 모드 토글 기능 추가
+after_footer_scripts:
+  - /assets/js/custom/dark-theme.js
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
