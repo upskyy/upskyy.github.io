@@ -126,7 +126,7 @@ To install:
 3. Fetch and update bundled gems by running the following [Bundler](http://bundler.io/) command:
 
    ```bash
-   bundle
+   bundle 
    ```
 
 4. Add `remote_theme: "mmistakes/minimal-mistakes@4.24.0"` to your `_config.yml` file. Remove any other `theme:` or `remote_theme:` entry.
