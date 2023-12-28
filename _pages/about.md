@@ -4,6 +4,6 @@ permalink: /about/
 layout: single
 ---
 
-## hasangchun.github.io 블로그
+## upskyy.github.io 블로그
 
 
